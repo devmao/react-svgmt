@@ -65,9 +65,9 @@
     "webpack-dev-server": "^3.10.2"
   },
   "peerDependencies": {
-    "prop-types": "^15.6.0",
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "prop-types": "*",
+    "react": "*",
+    "react-dom": "*"
   },
   "dependencies": {
     "d3-ease": "^1.0.3",
